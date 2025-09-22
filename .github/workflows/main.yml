@@ -47,7 +47,7 @@ jobs:
           g = Github(os.getenv('GITHUB_TOKEN'))
 
           def handle_rate_limit_exceeded():
-              rate_limit = g.get_rate_limit().core
+              rate_limit = g.get_rate_limit().search
               if rate_limit.remaining == 0:
                   reset_time = rate_limit.reset - datetime.now()
                   sleep_time = max(reset_time.total_seconds(), 0)

@@ -40,11 +40,12 @@ jobs:
         run: |
           echo "🌍 Buscando usuários globais no GitHub..."
           python - <<EOF
-          from github import Github
+          from github import Github, Auth
           from datetime import datetime
           import time, os
 
-          g = Github(os.getenv('GITHUB_TOKEN'))
+          auth = Auth.Token(os.getenv("GITHUB_TOKEN"))
+          g = Github(auth=auth)
 
           def handle_rate_limit_exceeded():
               rate_limit = g.get_rate_limit().search
@@ -54,8 +55,7 @@ jobs:
                   print(f"⚠️ Rate limit exceeded. Sleeping for {sleep_time} seconds.")
                   time.sleep(sleep_time)
 
-          # Query global
-          query = 'sort:followers-desc'
+          query = "type:user sort:followers-desc"
           try:
               result = g.search_users(query)[:50]
           except Exception as e:

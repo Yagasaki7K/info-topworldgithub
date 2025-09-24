@@ -5,54 +5,54 @@ List of top 50 Github World members based in your followers.
 <!-- START TOP USERS -->
 | Name | Company | Twitter Username | Location | Repositories |
 |------|---------|------------------|----------|--------------|
-| [Evan You](https://github.com/yyx990803) | VoidZero | youyuxi | Singapore | 198 |
+| [Linus Torvalds](https://github.com/torvalds) | Linux Foundation | N/A | Portland, OR | 9 |
+| [Andrej](https://github.com/karpathy) | N/A | N/A | Stanford | 56 |
+| [dan](https://github.com/gaearon) | N/A | N/A | N/A | 284 |
 | [稚晖](https://github.com/peng-zhihui) | HUAWEI Research | N/A | Shanghai | 59 |
-| [N/A](https://github.com/CodeWithHarry) | N/A | N/A | N/A | 38 |
+| [Ruan YiFeng](https://github.com/ruanyf) | N/A | N/A | Shanghai, China | 73 |
+| [Sindre Sorhus](https://github.com/sindresorhus) | N/A | sindresorhus | N/A | 1118 |
+| [Jake Wharton](https://github.com/JakeWharton) | @cashapp / @square | N/A | Pittsburgh, PA, USA | 150 |
+| [TJ](https://github.com/tj) | Apex | N/A | N/A | 296 |
+| [George Hotz](https://github.com/geohot) | @commaai @tinygrad  | N/A | San Diego, CA | 95 |
+| [Addy Osmani](https://github.com/addyosmani) | Google | addyosmani | Mountain View, California | 343 |
+| [ThePrimeagen](https://github.com/ThePrimeagen) | CEO Of TheStartup | ThePrimeagen | 9th Ring, Vim | 228 |
+| [Kamran Ahmed](https://github.com/kamranahmedse) | N/A | kamrify | United Kingdom | 106 |
+| [Crypto Michael](https://github.com/michaelliao) | N/A | liaoxuefeng | Beijing, China | 106 |
+| [Krish C Naik](https://github.com/krishnaik06) | Panasonic IIC | N/A | Bangalore | 344 |
+| [Grant Sanderson](https://github.com/3b1b) | 3Blue1Brown | N/A | N/A | 9 |
+| [Anthony Fu](https://github.com/antfu) | @vercel / @nuxt | N/A | undefined | 384 |
+| [Filipe Deschamps](https://github.com/filipedeschamps) | N/A | N/A | Brasil | 21 |
+| [Siraj Raval](https://github.com/llSourcell) | N/A | N/A | N/A | 482 |
 | [Kunal Kushwaha](https://github.com/kunal-kushwaha) | Civo | kunalstwt | London, UK | 47 |
 | [Wes Bos](https://github.com/wesbos) | me | wesbos | Hamilton, Ontario | 410 |
+| [Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin) | JavaScript Mastery | jsmasterypro | Croatia | 145 |
+| [Taylor Otwell](https://github.com/taylorotwell) | Laravel | N/A | Little Rock, AR | 32 |
 | [Kent C. Dodds](https://github.com/kentcdodds) | @epicweb-dev  | kentcdodds | Salt Lake City, Utah, USA | 732 |
-| [Diego Fernandes](https://github.com/diego3g) | @Rocketseat  | dieegosf | Brazil | 75 |
-| [Shaun](https://github.com/iamshaunjp) | Net Ninja | thenetninjauk | United Kingdom | 141 |
-| [N/A](https://github.com/WebDevSimplified) | WebDevSimplified | N/A | Nebraska | 225 |
-| [Bucky Roberts](https://github.com/buckyroberts) | thenewboston | bucky_roberts | New York, NY | 45 |
-| [John Washam](https://github.com/jwasham) | N/A | N/A | United States | 30 |
-| [Jeff Geerling](https://github.com/geerlingguy) | Midwestern Mac, LLC | geerlingguy | St. Louis, MO | 304 |
-| [代码家](https://github.com/daimajia) | N/A | daimajia | Beijing, China | 91 |
-| [Guido van Rossum](https://github.com/gvanrossum) | Microsoft | gvanrossum | San Francisco Bay Area | 26 |
+| [David J. Malan](https://github.com/dmalan) | @harvard | N/A | Cambridge, MA, USA | 22 |
+| [Sebastian Raschka](https://github.com/rasbt) | N/A | rasbt | N/A | 144 |
+| [Brais Moure](https://github.com/mouredev) | MoureDev by Brais Moure | N/A | Building software with  ♥ from Galicia (Spain) to the world. | 51 |
+| [Paul Irish](https://github.com/paulirish) | Google Chrome, ♥z | N/A | N/A | 366 |
+| [Sebastián Ramírez](https://github.com/tiangolo) | N/A | tiangolo | Berlin, Germany | 73 |
+| [Stephen Grider](https://github.com/StephenGrider) | N/A | N/A | N/A | 122 |
+| [Abhishek Veeramalla](https://github.com/iam-veeramalla) | Red Hat | N/A | Hyderabad, India | 72 |
+| [N/A](https://github.com/mrdoob) | N/A | mrdoob | N/A | 42 |
+| [Tom Preston-Werner](https://github.com/mojombo) | @chatterbugapp, @redwoodjs, @preston-werner-ventures  | mojombo | San Francisco | 66 |
 | [Salvatore Sanfilippo](https://github.com/antirez) | Redis Labs | antirez | Catania, Sicily, Italy | 94 |
-| [Kelsey Hightower](https://github.com/kelseyhightower) | N/A | N/A | Washington | 195 |
+| [Mike Bostock](https://github.com/mbostock) | @observablehq  | mbostock | San Francisco, CA | 87 |
+| [Keijiro Takahashi](https://github.com/keijiro) | Unity Technologies Japan | N/A | Japan | 879 |
+| [Jeff Delaney](https://github.com/codediodeio) | Fireship LLC | jeffdelaney23 | Phoenix, AZ | 65 |
+| [Tim Pope](https://github.com/tpope) | N/A | N/A | Brooklyn, NY | 85 |
+| [Armin Ronacher](https://github.com/mitsuhiko) | Sentry | mitsuhiko | Austria | 314 |
+| [Donne Martin](https://github.com/donnemartin) | @facebook | N/A | Washington, D.C. | 27 |
+| [Kirat](https://github.com/hkirat) | N/A | N/A | Earth | 141 |
 | [Andrej Marinchenko](https://github.com/BEPb) | prohibited by employment contract | noname85071193 | Belarus | 43 |
-| [Morvan](https://github.com/MorvanZhou) | N/A | N/A | N/A | 46 |
+| [Chris Wanstrath](https://github.com/defunkt) | N/A | N/A | N/A | 107 |
+| [David Heinemeier Hansson](https://github.com/dhh) | 37signals | dhh | N/A | 4 |
+| [Douglas Crockford](https://github.com/douglascrockford) | Virgule-Solidus | N/A | Anaheim | 18 |
+| [Jadi](https://github.com/jadijadi) | N/A | jadi | N/A | 98 |
 | [Jackson Tian](https://github.com/JacksonTian) | Alibaba Cloud | N/A | Hangzhou, China | 271 |
+| [Lucas Santillan](https://github.com/Luc4st1574) | N/A | N/A | N/A | 19 |
+| [Bruno Simon](https://github.com/brunosimon) | Creative Journey | bruno_simon | Paris | 80 |
 | [xiaolai](https://github.com/xiaolai) | inblockchain | xiaolai | beijing | 62 |
-| [N/A](https://github.com/lllyasviel) | N/A | N/A | N/A | 51 |
-| [xyfir](https://github.com/MrXyfir) | N/A | N/A | California | 6 |
-| [Daniel Shiffman](https://github.com/shiffman) | @CodingTrain @ITPNYU @processing  @ml5js @nature-of-code @Programming-from-A-to-Z  | shiffman | New York, NY | 171 |
-| [kenji](https://github.com/kenjinote) | N/A | kenjinote | Japan | 635 |
-| [John Resig](https://github.com/jeresig) | @Khan  | jeresig | Hudson Valley, NY | 111 |
-| [Chris Banes](https://github.com/chrisbanes) | Android Engineer | chrisbanes | Bath, UK | 54 |
-| [Mattt](https://github.com/mattt) | N/A | mattt | Portland, OR | 109 |
-| [N/A](https://github.com/vczh) | N/A | N/A | Seattle, WA, USA | 13 |
-| [Oleksii Trekhleb](https://github.com/trekhleb) | Uber | Trekhleb | San Francisco Bay Area | 25 |
-| [halfrost](https://github.com/halfrost) | @Kubeflow @CNCF | halffrost | [California, Singapore, China] | 32 |
-| [Peter Kimanzi](https://github.com/peter-kimanzi) | Qazini | N/A | Nairobi | 117 |
-| [迷渡](https://github.com/justjavac) | N/A | justjavac | Tianjin, China | 413 |
-| [N/A](https://github.com/AUTOMATIC1111) | N/A | N/A | N/A | 43 |
-| [Coding For Entrepreneurs](https://github.com/codingforentrepreneurs) | Coding for Entrepreneurs | joincfe | Boise, Idaho | 219 |
-| [Jessica Lord](https://github.com/jlord) | N/A | jllord | London, England | 171 |
-| [Aurélien Geron](https://github.com/ageron) | N/A | N/A | Auckland | 88 |
-| [isaacs](https://github.com/isaacs) | N/A | izs | Oakland CA | 469 |
-| [Theo Browne](https://github.com/t3dotgg) | CEO @ Ping.gg | theo | San Francisco, CA | 122 |
-| [Atıl Samancıoğlu](https://github.com/atilsamancioglu) | Academy Club | atilsamancioglu | N/A | 520 |
-| [longtao](https://github.com/eust-w) | N/A | eustancewu | China | 152 |
-| [Florin Pop](https://github.com/florinpop17) | iCodeThis.com | florinpop1705 | Romania | 99 |
-| [astaxie](https://github.com/astaxie) | jimengIO | N/A | Shanghai, China | 83 |
-| [N/A](https://github.com/in28minutes) | in28Minutes | in28minutes | Hyderabad, India | 104 |
-| [chencheng (云谦)](https://github.com/sorrycc) | @antgroup | chenchengpro | HangZhou, China | 239 |
-| [ᴊᴏᴇ ᴄʜᴇɴ](https://github.com/unknwon) | N/A | jc_unknwon | N/A | 44 |
-| [Cassidy Williams](https://github.com/cassidoo) | GitHub | cassidoo | Chicago, IL | 176 |
-| [Scott Chacon](https://github.com/schacon) | @gitbutlerapp  | chacon | Berlin, Germany | 222 |
-| [Yin Wang](https://github.com/yinwang0) | N/A | N/A | N/A | 19 |
-| [Code Bullet](https://github.com/Code-Bullet) | N/A | N/A | N/A | 25 |
-| [花裤衩](https://github.com/PanJiaChen) | ByteDance | N/A | Shanghai, China | 72 |
+| [Simo Edwin](https://github.com/developedbyed) | developedbyed | developedbyed | Scotland | 20 |
 <!-- END TOP USERS -->

@@ -5,54 +5,54 @@ List of top 50 Github World members based in your followers.
 <!-- START TOP USERS -->
 | Name | Company | Twitter Username | Location | Repositories |
 |------|---------|------------------|----------|--------------|
+| [Evan You](https://github.com/yyx990803) | VoidZero | youyuxi | Singapore | 198 |
+| [Gustavo Guanabara](https://github.com/gustavoguanabara) | Curso em Vídeo | N/A | Rio de Janeiro, Brazil | 8 |
+| [dan](https://github.com/gaearon) | N/A | N/A | N/A | 284 |
+| [Sindre Sorhus](https://github.com/sindresorhus) | N/A | sindresorhus | N/A | 1118 |
 | [Brad Traversy](https://github.com/bradtraversy) | Traversy Media | traversymedia | Massachusetts | 309 |
-| [Phil Wang](https://github.com/lucidrains) | N/A | N/A | San Francisco | 357 |
-| [Alp ₿📈🚀🌕](https://github.com/IDouble) | IDEX/USD | N/A | Zurich, Switzerland | 61 |
+| [Rafaella Ballerini](https://github.com/rafaballerini) | N/A | N/A | Santa Catarina, Brasil | 59 |
+| [TJ](https://github.com/tj) | Apex | N/A | N/A | 296 |
+| [Hitesh Choudhary](https://github.com/hiteshchoudhary) | N/A | hiteshdotcom | India | 113 |
+| [Kyle Simpson](https://github.com/getify) | Getify Solutions | N/A | Austin, TX | 73 |
 | [ThePrimeagen](https://github.com/ThePrimeagen) | CEO Of TheStartup | ThePrimeagen | 9th Ring, Vim | 228 |
+| [Crypto Michael](https://github.com/michaelliao) | N/A | liaoxuefeng | Beijing, China | 106 |
+| [Krish C Naik](https://github.com/krishnaik06) | Panasonic IIC | N/A | Bangalore | 344 |
+| [Filipe Deschamps](https://github.com/filipedeschamps) | N/A | N/A | Brasil | 21 |
 | [Siraj Raval](https://github.com/llSourcell) | N/A | N/A | N/A | 482 |
 | [N/A](https://github.com/CodeWithHarry) | N/A | N/A | N/A | 38 |
-| [John Mwendwa](https://github.com/JohnMwendwa) | Uni AirFibre Networks | N/A | Nairobi, Kenya | 112 |
-| [Bucky Roberts](https://github.com/buckyroberts) | thenewboston | bucky_roberts | New York, NY | 45 |
-| [Jeff Geerling](https://github.com/geerlingguy) | Midwestern Mac, LLC | geerlingguy | St. Louis, MO | 304 |
-| [Guido van Rossum](https://github.com/gvanrossum) | Microsoft | gvanrossum | San Francisco Bay Area | 26 |
-| [Sarah Drasner](https://github.com/sdras) | Google | sarah_edo | All over the place | 102 |
-| [Programming Hero](https://github.com/ProgrammingHero1) | N/A | N/A | N/A | 906 |
-| [Kelsey Hightower](https://github.com/kelseyhightower) | N/A | N/A | Washington | 195 |
-| [Keijiro Takahashi](https://github.com/keijiro) | Unity Technologies Japan | N/A | Japan | 879 |
-| [Jeff Delaney](https://github.com/codediodeio) | Fireship LLC | jeffdelaney23 | Phoenix, AZ | 65 |
-| [David Heinemeier Hansson](https://github.com/dhh) | 37signals | dhh | N/A | 4 |
-| [Douglas Crockford](https://github.com/douglascrockford) | Virgule-Solidus | N/A | Anaheim | 18 |
-| [Jadi](https://github.com/jadijadi) | N/A | jadi | N/A | 98 |
-| [Jackson Tian](https://github.com/JacksonTian) | Alibaba Cloud | N/A | Hangzhou, China | 271 |
-| [Iris Series 鸢尾花书](https://github.com/Visualize-ML) | N/A | N/A | N/A | 10 |
-| [Bruno Simon](https://github.com/brunosimon) | Creative Journey | bruno_simon | Paris | 80 |
-| [Loiane Groner](https://github.com/loiane) | https://loiane.training | loiane | Florida, US | 219 |
-| [kenji](https://github.com/kenjinote) | N/A | kenjinote | Japan | 635 |
-| [Alex The Analyst](https://github.com/AlexTheAnalyst) | N/A | N/A | N/A | 15 |
-| [Chris Banes](https://github.com/chrisbanes) | Android Engineer | chrisbanes | Bath, UK | 54 |
-| [Mattt](https://github.com/mattt) | N/A | mattt | Portland, OR | 108 |
-| [Andrey Esin](https://github.com/esin) | N/A | N/A | N/A | 51 |
-| [N/A](https://github.com/vczh) | N/A | N/A | Seattle, WA, USA | 13 |
-| [Oleksii Trekhleb](https://github.com/trekhleb) | Uber | Trekhleb | San Francisco Bay Area | 25 |
-| [Jeffrey Way](https://github.com/JeffreyWay) | Laracasts | jeffrey_way | Winter Park, FL | 67 |
+| [Taylor Otwell](https://github.com/taylorotwell) | Laravel | N/A | Little Rock, AR | 32 |
+| [David J. Malan](https://github.com/dmalan) | @harvard | N/A | Cambridge, MA, USA | 22 |
+| [Ryan Dahl](https://github.com/ry) | @denoland  | N/A | New York City | 61 |
+| [Diego Fernandes](https://github.com/diego3g) | @Rocketseat  | dieegosf | Brazil | 75 |
 | [N/A](https://github.com/WebDevSimplified) | WebDevSimplified | N/A | Nebraska | 225 |
-| [Paul Irish](https://github.com/paulirish) | Google Chrome, ♥z | N/A | N/A | 366 |
-| [Sebastián Ramírez](https://github.com/tiangolo) | N/A | tiangolo | Berlin, Germany | 73 |
+| [John Mwendwa](https://github.com/JohnMwendwa) | Uni AirFibre Networks | N/A | Nairobi, Kenya | 112 |
+| [Kenneth Reitz](https://github.com/kennethreitz) | N/A | kennethreitz42 | Virginia, USA, Earth, Milky Way. | 74 |
 | [Ben Awad](https://github.com/benawad) | Voidpet | benawad | San Francisco, CA | 257 |
 | [Stephen Grider](https://github.com/StephenGrider) | N/A | N/A | N/A | 122 |
 | [Christian Deacon](https://github.com/gamemann) | @tek-works | ChristianDeacon | New Jersey, US | 173 |
-| [Jonas Schmedtmann](https://github.com/jonasschmedtmann) | N/A | jonasschmedtman | Faro, Portugal | 7 |
 | [Bucky Roberts](https://github.com/buckyroberts) | thenewboston | bucky_roberts | New York, NY | 45 |
 | [Hadley Wickham](https://github.com/hadley) | @posit-pbc | N/A | Houston, TX | 298 |
-| [Abhishek Veeramalla](https://github.com/iam-veeramalla) | Red Hat | N/A | Hyderabad, India | 72 |
-| [John Washam](https://github.com/jwasham) | N/A | N/A | United States | 30 |
-| [Elyx](https://github.com/elyxdev) | N/A | N/A | Medellín, Colombia. | 14 |
 | [Jeff Geerling](https://github.com/geerlingguy) | Midwestern Mac, LLC | geerlingguy | St. Louis, MO | 304 |
-| [代码家](https://github.com/daimajia) | N/A | daimajia | Beijing, China | 91 |
 | [Guido van Rossum](https://github.com/gvanrossum) | Microsoft | gvanrossum | San Francisco Bay Area | 26 |
-| [N/A](https://github.com/mrdoob) | N/A | mrdoob | N/A | 42 |
-| [Salvatore Sanfilippo](https://github.com/antirez) | Redis Labs | antirez | Catania, Sicily, Italy | 94 |
-| [Mark Otto](https://github.com/mdo) | @pierredotco  | mdo | San Francisco, CA | 32 |
-| [Mike Bostock](https://github.com/mbostock) | @observablehq  | mbostock | San Francisco, CA | 87 |
-| [Mu Li](https://github.com/mli) | Boson AI | N/A | Palo Alto, CA | 20 |
+| [Sarah Drasner](https://github.com/sdras) | Google | sarah_edo | All over the place | 102 |
+| [Vishwas](https://github.com/gopinav) | Builder.io | codevolutionweb | India | 76 |
+| [DIYgod](https://github.com/DIYgod) | Natural Selection Labs | DIYdoge | Singapore | 89 |
+| [Ania Kubow](https://github.com/kubowania) | N/A | ania_kubow | N/A | 136 |
+| [John Papa](https://github.com/johnpapa) | JohnPapa.net, LLC | john_papa | Orlando, FL | 152 |
+| [Ian Goodfellow](https://github.com/goodfeli) | N/A | N/A | Mountain View | 18 |
+| [Fernando Herrera](https://github.com/Klerith) | Profesor y Full Stack Developer | Fernando_Her85 | Costa Rica | 551 |
+| [Anurag Hazra](https://github.com/anuraghazra) | @razorpay | anuraghazru | India, West Bengal | 139 |
+| [Mustafa Çağrı Güven](https://github.com/mustafacagri) | N/A | mustafacagri | İstanbul / ✈️ 🌎 | 40 |
+| [David Fowler](https://github.com/davidfowl) | Microsoft | davidfowl | Bellevue, WA | 271 |
+| [Evan Wallace](https://github.com/evanw) | N/A | N/A | San Francisco | 124 |
+| [TomNomNom](https://github.com/tomnomnom) | N/A | N/A | Yorkshire, UK | 104 |
+| [Draven](https://github.com/draveness) | @spectra-fund  | draven907 | Beijing, China | 50 |
+| [jist](https://github.com/george0st) | N/A | N/A | Europe, Czech Republic, Prague | 26 |
+| [Chris Titus](https://github.com/ChrisTitusTech) | CT Tech Group LLC | christitustech | Dallas, TX | 75 |
+| [mattn](https://github.com/mattn) | N/A | mattn_jp | Osaka, Japan | 2070 |
+| [张鸿洋](https://github.com/hongyangAndroid) | wanandroid.com | N/A | Beijing,China | 102 |
+| [N/A](https://github.com/vbuterin) | N/A | N/A | N/A | 63 |
+| [Angus H.](https://github.com/angusshire) | UC Berkeley | N/A | Berkeley, CA | 18 |
+| [Nicholas Renotte](https://github.com/nicknochnack) | N/A | N/A | Sydney, Australia | 208 |
+| [Philipp Lackner](https://github.com/philipplackner) | N/A | N/A | Germany | 303 |
 <!-- END TOP USERS -->

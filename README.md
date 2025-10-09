@@ -5,54 +5,54 @@ List of top 50 Github World members based in your followers.
 <!-- START TOP USERS -->
 | Name | Company | Twitter Username | Location | Repositories |
 |------|---------|------------------|----------|--------------|
+| [Linus Torvalds](https://github.com/torvalds) | Linux Foundation | N/A | Portland, OR | 9 |
 | [Andrej](https://github.com/karpathy) | N/A | N/A | Stanford | 56 |
 | [Gustavo Guanabara](https://github.com/gustavoguanabara) | Curso em Vídeo | N/A | Rio de Janeiro, Brazil | 8 |
+| [Evan You](https://github.com/yyx990803) | VoidZero | youyuxi | Singapore | 198 |
+| [稚晖](https://github.com/peng-zhihui) | HUAWEI Research | N/A | Shanghai | 59 |
+| [Ruan YiFeng](https://github.com/ruanyf) | N/A | N/A | Shanghai, China | 74 |
+| [Brad Traversy](https://github.com/bradtraversy) | Traversy Media | traversymedia | Massachusetts | 310 |
+| [Jake Wharton](https://github.com/JakeWharton) | @cashapp / @square | N/A | Pittsburgh, PA, USA | 150 |
+| [Rafaella Ballerini](https://github.com/rafaballerini) | N/A | N/A | Santa Catarina, Brasil | 59 |
+| [Phil Wang](https://github.com/lucidrains) | N/A | N/A | San Francisco | 361 |
 | [Hitesh Choudhary](https://github.com/hiteshchoudhary) | N/A | hiteshdotcom | India | 113 |
+| [Alp ₿📈🚀🌕](https://github.com/IDouble) | IDEX/USD | N/A | Zurich, Switzerland | 61 |
 | [George Hotz](https://github.com/geohot) | @commaai @tinygrad  | N/A | San Diego, CA | 95 |
+| [Addy Osmani](https://github.com/addyosmani) | Google | addyosmani | Mountain View, California | 344 |
 | [Grant Sanderson](https://github.com/3b1b) | 3Blue1Brown | N/A | N/A | 9 |
 | [Anthony Fu](https://github.com/antfu) | @vercel / @nuxt | N/A | undefined | 384 |
-| [Miguel Ángel Durán](https://github.com/midudev) | N/A | midudev | Barcelona | 206 |
+| [Kunal Kushwaha](https://github.com/kunal-kushwaha) | Civo | kunalstwt | London, UK | 47 |
+| [Wes Bos](https://github.com/wesbos) | me | wesbos | Hamilton, Ontario | 412 |
+| [Kent C. Dodds](https://github.com/kentcdodds) | @epicweb-dev  | kentcdodds | Salt Lake City, Utah, USA | 735 |
+| [Ryan Dahl](https://github.com/ry) | @denoland  | N/A | New York City | 61 |
+| [Diego Fernandes](https://github.com/diego3g) | @Rocketseat  | dieegosf | Brazil | 75 |
 | [Brais Moure](https://github.com/mouredev) | MoureDev by Brais Moure | N/A | Building software with  ♥ from Galicia (Spain) to the world. | 51 |
-| [Shaun](https://github.com/iamshaunjp) | Net Ninja | thenetninjauk | United Kingdom | 141 |
+| [N/A](https://github.com/WebDevSimplified) | WebDevSimplified | N/A | Nebraska | 226 |
+| [John Mwendwa](https://github.com/JohnMwendwa) | Uni AirFibre Networks | N/A | Nairobi, Kenya | 112 |
 | [Paul Irish](https://github.com/paulirish) | Google Chrome, ♥z | N/A | N/A | 366 |
+| [Sebastián Ramírez](https://github.com/tiangolo) | N/A | tiangolo | Berlin, Germany | 73 |
 | [Ben Awad](https://github.com/benawad) | Voidpet | benawad | San Francisco, CA | 257 |
-| [Jonas Schmedtmann](https://github.com/jonasschmedtmann) | N/A | jonasschmedtman | Faro, Portugal | 7 |
+| [Christian Deacon](https://github.com/gamemann) | @tek-works | ChristianDeacon | New Jersey, US | 173 |
 | [Hadley Wickham](https://github.com/hadley) | @posit-pbc | N/A | Houston, TX | 354 |
 | [Abhishek Veeramalla](https://github.com/iam-veeramalla) | Red Hat | N/A | Hyderabad, India | 72 |
-| [Elyx](https://github.com/elyxdev) | N/A | N/A | Medellín, Colombia. | 14 |
-| [Mike Bostock](https://github.com/mbostock) | @observablehq  | mbostock | San Francisco, CA | 87 |
-| [Mu Li](https://github.com/mli) | Boson AI | N/A | Palo Alto, CA | 20 |
-| [Donne Martin](https://github.com/donnemartin) | @facebook | N/A | Washington, D.C. | 27 |
-| [Sebastian Lague](https://github.com/SebLague) | N/A | SebastianLague | Denmark | 90 |
-| [编程随想](https://github.com/programthink) | N/A | N/A | China | 5 |
-| [Lucas Santillan](https://github.com/Luc4st1574) | N/A | N/A | N/A | 19 |
-| [Simo Edwin](https://github.com/developedbyed) | developedbyed | developedbyed | Scotland | 20 |
-| [Angela Yu](https://github.com/angelabauer) | @appbrewery | N/A | London, UK | 46 |
-| [程序员鱼皮](https://github.com/liyupi) | 编程学习公众号【程序员鱼皮】 | N/A | China Shanghai | 94 |
-| [Asabeneh](https://github.com/Asabeneh) | N/A | Asabeneh | Helsinki, Finland | 178 |
-| [Mitchell Hashimoto](https://github.com/mitchellh) | N/A | mitchellh | Los Angeles, CA | 112 |
-| [骆昊](https://github.com/jackfrued) | N/A | N/A | Chengdu Sichuan, China | 141 |
-| [Wes McKinney](https://github.com/wesm) | @posit-pbc | wesmckinn | Nashville, TN | 120 |
-| [Vishwas](https://github.com/gopinav) | Builder.io | codevolutionweb | India | 78 |
-| [DIYgod](https://github.com/DIYgod) | Natural Selection Labs | DIYdoge | Singapore | 90 |
-| [Nicholas C. Zakas](https://github.com/nzakas) | Human Who Codes LLC | slicknet | Boston, MA | 75 |
-| [Roman Nurik](https://github.com/romannurik) | @google  | N/A | New York, NY | 69 |
-| [Pierian Data](https://github.com/Pierian-Data) | Pierian Training | N/A | N/A | 31 |
-| [N17R0](https://github.com/noob-hackers) | Noob Hackers | N/A | india | 23 |
-| [Brittany Chiang](https://github.com/bchiang7) | N/A | N/A | N/A | 62 |
-| [Nishant Tiwari](https://github.com/nishant-Tiwari24) | N/A | N/A | Secunderabad | 73 |
-| [Harrison](https://github.com/Sentdex) | YouTube.com/Sentdex | N/A | Texas | 51 |
-| [NeuralNine](https://github.com/NeuralNine) | NeuralNine | NeuralNine | Vienna, Austria | 13 |
-| [Aaron Patterson](https://github.com/tenderlove) | @Shopify | tenderlove | Seattle | 374 |
-| [Alyssa X](https://github.com/alyssaxuu) | N/A | alyssaxuu | London, UK | 16 |
-| [Hailey Somerville](https://github.com/haileys) | N/A | N/A | Naarm / Melbourne | 383 |
-| [Jordan W](https://github.com/jordwalke) | Facebook, ReactJS | jordwalke | N/A | 125 |
-| [Shaofei Cheng](https://github.com/wintercn) | N/A | N/A | China | 52 |
-| [macro](https://github.com/macrozheng) | N/A | N/A | Wuxi,China | 20 |
-| [DIMFLIX](https://github.com/DIMFLIX) | meowrch | N/A | Russia, Nizhny Novgorod  | 15 |
-| [Taehoon](https://github.com/carpedm20) | N/A | N/A | N/A | 207 |
-| [Felix Angelov](https://github.com/felangel) | @shorebirdtech | felangelov | Chicago | 143 |
-| [Claude](https://github.com/claude) | @anthropics | N/A | N/A | 0 |
-| [Fatih Arslan](https://github.com/fatih) | @planetscale  | fatih | Ankara, TR | 63 |
-| [Mohammad](https://github.com/mohammadhasanii) | @Ourolabs | code_mohammad | Tehran , Iran | 47 |
+| [François Chollet](https://github.com/fchollet) | N/A | N/A | N/A | 16 |
+| [Oleksii Trekhleb](https://github.com/trekhleb) | Uber | Trekhleb | San Francisco Bay Area | 25 |
+| [Peter Kimanzi](https://github.com/peter-kimanzi) | Qazini | N/A | Nairobi | 117 |
+| [N/A](https://github.com/AUTOMATIC1111) | N/A | N/A | N/A | 43 |
+| [迷渡](https://github.com/justjavac) | N/A | justjavac | Tianjin, China | 413 |
+| [Jeffrey Way](https://github.com/JeffreyWay) | Laracasts | jeffrey_way | Winter Park, FL | 67 |
+| [Jessica Lord](https://github.com/jlord) | N/A | jllord | London, England | 171 |
+| [Guillermo Rauch](https://github.com/rauchg) | https://vercel.com | N/A | SF | 138 |
+| [Anders Hejlsberg](https://github.com/ahejlsberg) | Microsoft | N/A | Redmond, WA, USA | 4 |
+| [isaacs](https://github.com/isaacs) | N/A | izs | Oakland CA | 470 |
+| [Atıl Samancıoğlu](https://github.com/atilsamancioglu) | Academy Club | atilsamancioglu | N/A | 520 |
+| [John Papa](https://github.com/johnpapa) | JohnPapa.net, LLC | john_papa | Orlando, FL | 153 |
+| [Florin Pop](https://github.com/florinpop17) | iCodeThis.com | florinpop1705 | Romania | 99 |
+| [longtao](https://github.com/eust-w) | N/A | eustancewu | China | 152 |
+| [astaxie](https://github.com/astaxie) | jimengIO | N/A | Shanghai, China | 83 |
+| [N/A](https://github.com/in28minutes) | in28Minutes | in28minutes | Hyderabad, India | 104 |
+| [司徒正美](https://github.com/RubyLouvre) | qunar.com | N/A | China | 129 |
+| [Fernando Herrera](https://github.com/Klerith) | Profesor y Full Stack Developer | Fernando_Her85 | Costa Rica | 551 |
+| [ᴊᴏᴇ ᴄʜᴇɴ](https://github.com/unknwon) | N/A | jc_unknwon | N/A | 45 |
+| [Cogito Ergo Sum](https://github.com/standardgalactic) | Xanadu | galactromeda | Canada | 21794 |
 <!-- END TOP USERS -->
